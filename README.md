@@ -24,6 +24,10 @@ Robot perception and control architecture using Behavior Trees.
 
 ## Notes
 
-Coursework project shared for portfolio purposes.
+This repository contains coursework developed during my Robotics Engineering degree and is shared for portfolio purposes.
 
-License: MIT
+Some parts of these projects are based on ROS2 examples and course templates provided during the course, which are released under the Apache-2.0 license.
+
+## License
+
+MIT License
